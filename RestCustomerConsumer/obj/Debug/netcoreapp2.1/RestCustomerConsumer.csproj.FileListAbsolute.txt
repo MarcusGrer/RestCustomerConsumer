@@ -1,0 +1,11 @@
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\bin\Debug\netcoreapp2.1\RestCustomerConsumer.deps.json
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\bin\Debug\netcoreapp2.1\RestCustomerConsumer.runtimeconfig.json
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\bin\Debug\netcoreapp2.1\RestCustomerConsumer.runtimeconfig.dev.json
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\bin\Debug\netcoreapp2.1\RestCustomerConsumer.dll
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\obj\Debug\netcoreapp2.1\RestCustomerConsumer.csprojAssemblyReference.cache
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\obj\Debug\netcoreapp2.1\RestCustomerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\obj\Debug\netcoreapp2.1\RestCustomerConsumer.AssemblyInfoInputs.cache
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\obj\Debug\netcoreapp2.1\RestCustomerConsumer.AssemblyInfo.cs
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\bin\Debug\netcoreapp2.1\RestCustomerConsumer.pdb
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\obj\Debug\netcoreapp2.1\RestCustomerConsumer.dll
+C:\Users\Marek\Desktop\School\Networking\RestCustomerConsumer\RestCustomerConsumer\obj\Debug\netcoreapp2.1\RestCustomerConsumer.pdb
